@@ -8,7 +8,7 @@ A little bit about me:
 - I am interesting in learning how to understand R language.
 
 
-A meme that captures how I currently feel about my university studies is 
+A meme that captures how I currently feel about my university studies is:
 
 
 ![](https://c.tenor.com/8druEACXtX8AAAAd/tenor.gif)
