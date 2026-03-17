@@ -1,3 +1,31 @@
+# H1
+# H2 
+-
+-
+-
+- 1
+- 2
+- 3
+***bold***
+
+   *italics*
+  
+  [link](https://edstem.org/au/courses/31408/discussion/3156923z)
+  
+  [link2](https://tenor.com/en-NZ/view/shocked-surprised-gasp-what-cat-shock-gif-635629308990545194)
+
+  ![cat suprised](https://media1.tenor.com/m/CNI1fSM1XSoAAAAd/shocked-surprised.gif)
+
+
+
+
+
+
+
+
+
+
+
 # stats220
 This is my repo for STAT220. 
 
